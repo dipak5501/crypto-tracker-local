@@ -1,0 +1,16 @@
+{
+  "name": "local-crypto",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 8787",
+    "start": "vite preview --host 127.0.0.1 --port 8787 --strictPort",
+    "build": "vite build",
+    "test": "node --test test/*.test.js"
+  },
+  "devDependencies": {
+    "vite": "^7.1.10",
+    "typescript": "^5.9.3"
+  }
+}
