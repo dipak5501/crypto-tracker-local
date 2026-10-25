@@ -26,3 +26,13 @@ Ctrl+C
 ## Research
 
 See RESEARCH.md (representative public scan).
+
+## Self-adaptation
+
+This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
+
+**Latest:** Enhance Local Crypto Tracker with Public Trend Signals
+
+By integrating real-time market data and local trend signals, the Local Crypto Tracker can provide more accurate and relevant cryptocurrency price information to users in their area. This will improve user engagement and satisfaction.
+
+See `learning/LATEST.json` and `public/insights.json`.
