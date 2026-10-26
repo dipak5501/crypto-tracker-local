@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-26T16:01:52.889Z",
+  "updatedAt": "2026-10-26T19:35:58.435Z",
   "app": "Local Crypto Tracker",
   "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-  "summary": "By integrating real-time data and analysis tools, the Local Crypto Tracker can provide more accurate and timely information about cryptocurrency trends in your area. This will help users make informed decisions and stay ahead of market fluctuations.",
+  "summary": "By integrating real-time data from public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area, enhancing user experience and trust.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 38251
+      "score": 38741
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 22917
+      "score": 22977
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 8887
+      "score": 9274
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 5970
-    },
-    {
-      "source": "github_search",
-      "title": "ly05010419/MacNativeGames",
-      "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 5696
+      "score": 6009
     },
     {
       "source": "github_search",
       "title": "seedds/nxnative",
       "url": "https://github.com/seedds/nxnative",
-      "score": 5481
+      "score": 5758
+    },
+    {
+      "source": "github_search",
+      "title": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "score": 5742
     }
   ]
 }

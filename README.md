@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Crypto Tracker with Public Trend Signals
 
-By integrating real-time data and analysis tools, the Local Crypto Tracker can provide more accurate and timely information about cryptocurrency trends in your area. This will help users make informed decisions and stay ahead of market fluctuations.
+By integrating real-time data from public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area, enhancing user experience and trust.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
