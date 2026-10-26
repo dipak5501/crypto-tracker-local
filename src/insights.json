@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-26T07:29:45.776Z",
+  "updatedAt": "2026-10-26T10:31:35.776Z",
   "app": "Local Crypto Tracker",
   "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-  "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their area. This improvement will help users make better-informed decisions about their investments.",
+  "summary": "Utilize public trend signals to improve the accuracy and relevance of cryptocurrency price tracking in your local area, making the app more useful for users interested in regional market trends.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 36518
+      "score": 37173
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 22652
+      "score": 22759
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 7728
-    },
-    {
-      "source": "github_search",
-      "title": "ly05010419/MacNativeGames",
-      "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 5574
+      "score": 8173
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 5476
+      "score": 5722
+    },
+    {
+      "source": "github_search",
+      "title": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "score": 5628
     },
     {
       "source": "github_search",
       "title": "seedds/nxnative",
       "url": "https://github.com/seedds/nxnative",
-      "score": 4676
+      "score": 4920
     }
   ]
 }
