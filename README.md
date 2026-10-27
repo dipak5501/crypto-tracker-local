@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Crypto Tracker with Public Trend Signals
 
-By integrating signals from Gathin23/cleanyourtv, deepseek-ai/DeepInfer, and Zagitta/gpu-unlock, the Local Crypto Tracker can offer cleaner user interfaces, more accurate data analysis, and improved GPU performance for real-time tracking.
+By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area. This improvement will help users make better-informed decisions about their investments.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
