@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Crypto Tracker with Public Trend Signals
 
-Integrate real-time data visualization and predictive analytics to improve user experience, and leverage AI for personalized crypto price alerts.
+Integrate real-time data visualization and predictive analytics to improve user experience, and incorporate local market insights for more relevant cryptocurrency tracking.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
