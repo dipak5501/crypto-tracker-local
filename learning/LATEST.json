@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-28T01:56:21.644Z",
-  "featureId": "web-learn-2026-10-28T01",
+  "at": "2026-10-28T04:58:36.536Z",
+  "featureId": "web-learn-2026-10-28T04",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-    "summary": "Utilize public trend signals to improve the local-crypto app by integrating real-time tracking features, adding local-specific cryptocurrency data, and incorporating user-friendly visualization tools.",
+    "headline": "Local Crypto Tracker Enhancements",
+    "summary": "To improve the Local Crypto Tracker, integrate real-time data updates from reliable APIs, implement a user-friendly interface for easy navigation and interaction, and add a feature to display local cryptocurrency trends based on geolocation.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -13,76 +13,76 @@
   },
   "signals": [
     {
-      "source": "hackernews",
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "score": 774
+      "source": "github_search",
+      "title": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "score": 42219
     },
     {
-      "source": "hackernews",
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "score": 735
+      "source": "github_search",
+      "title": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "score": 23473
     },
     {
-      "source": "hackernews",
-      "title": "Python's experimental JIT to be removed",
-      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-      "score": 450
+      "source": "github_search",
+      "title": "Zagitta/gpu-unlock",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "score": 11565
     },
     {
-      "source": "hackernews",
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "score": 450
+      "source": "github_search",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 6998
     },
     {
-      "source": "hackernews",
-      "title": "New iMac with M6",
-      "url": "https://www.apple.com/imac/",
-      "score": 307
+      "source": "github_search",
+      "title": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "score": 6085
     },
     {
-      "source": "hackernews",
-      "title": "New 14‑inch MacBook Pro with M6",
-      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "score": 284
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 5083
     },
     {
-      "source": "hackernews",
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "score": 193
+      "source": "github_search",
+      "title": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "score": 4532
     },
     {
-      "source": "hackernews",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "score": 190
+      "source": "github_search",
+      "title": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "score": 4317
     },
     {
-      "source": "hackernews",
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "url": "https://cfsg.axiommath.ai/",
-      "score": 171
+      "source": "github_search",
+      "title": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 3640
     },
     {
-      "source": "hackernews",
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "score": 128
+      "source": "github_search",
+      "title": "aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea",
+      "score": 3280
     },
     {
-      "source": "hackernews",
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "score": 96
+      "source": "github_search",
+      "title": "amosblomqvist/learnharness",
+      "url": "https://github.com/amosblomqvist/learnharness",
+      "score": 3202
     },
     {
-      "source": "hackernews",
-      "title": "An examination of lost firefly species of the US and Canada",
-      "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
-      "score": 90
+      "source": "github_search",
+      "title": "kingcharleslzy-ai/dsh-purge",
+      "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
+      "score": 3080
     }
   ]
 }
