@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Local Crypto Tracker with Public Signals
+**Latest:** Enhance Local Crypto Tracker with Public Trend Signals
 
-By integrating public trend signals, the Local Crypto Tracker can offer more accurate and real-time cryptocurrency price tracking. This improvement will help users make informed decisions about their investments in local cryptocurrencies.
+By integrating features from the Gathin23/cleanyourtv project, local-crypto can improve its user interface and data visualization. Utilizing DeepInfer for predictive analysis will help in forecasting trends, while adding GPU support through gpu-unlock can speed up data processing.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
