@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-29T08:21:05.524Z",
-  "featureId": "web-learn-2026-10-29T08",
+  "at": "2026-10-29T11:23:36.713Z",
+  "featureId": "web-learn-2026-10-29T11",
   "slug": "local-crypto",
   "idea": {
     "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-    "summary": "By integrating real-time public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area, enhancing user experience and decision-making.",
+    "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area. This improvement will help users make better-informed decisions about their investments.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 44340
+      "score": 44570
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 24079
+      "score": 24133
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 12630
+      "score": 12731
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 7564
+      "score": 7619
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 6353
+      "score": 6377
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5280
+      "score": 5304
     },
     {
       "source": "github_search",
       "title": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 5018
+      "score": 5080
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 4521
+      "score": 4593
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4455
+      "score": 4469
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 4078
+      "score": 4175
     },
     {
       "source": "github_search",
       "title": "amosblomqvist/learnharness",
       "url": "https://github.com/amosblomqvist/learnharness",
-      "score": 3719
+      "score": 3766
     },
     {
       "source": "github_search",
       "title": "aicodeking/leanrea",
       "url": "https://github.com/aicodeking/leanrea",
-      "score": 3499
+      "score": 3516
     }
   ]
 }
