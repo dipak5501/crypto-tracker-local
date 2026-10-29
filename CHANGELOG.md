@@ -647,3 +647,21 @@ Signals:
 - Zagitta/gpu-unlock
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
+
+## 2026-10-29 — web-learn-2026-10-29T23
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+Utilize public trend signals to improve the accuracy and relevance of cryptocurrency price tracking in local-crypto, making it more useful for users interested in regional market trends.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- deepseek-ai/DeepInfer
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- ly05010419/MacNativeGames
