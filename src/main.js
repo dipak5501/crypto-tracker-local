@@ -1,18 +1,82 @@
-import { run } from "./logic.js";
-const app = document.querySelector("#app");
-app.innerHTML = `<main style="font-family:Georgia,serif;max-width:720px;margin:3rem auto;padding:0 1rem;background:linear-gradient(180deg,#f7f3ea,#e8eef5);min-height:100vh"><h1>Local Crypto Tracker</h1><p>A simple, local web app for tracking cryptocurrency prices and trends in your area.</p><div id="out"></div></main>`;
-document.querySelector("#out").textContent = run();
+import "./style.css";
+import { loadWatch, saveWatch, fetchMarkets, fmtUsd, fmtPct } from "./logic.js";
 
+const root = document.querySelector("#app");
+let watch = loadWatch();
+let rows = [];
+let error = "";
+let busy = false;
 
-// Self-adaptation insights (injected)
-fetch("/insights.json", { cache: "no-store" })
+async function refresh() {
+  busy = true; error = ""; render();
+  try {
+    rows = await fetchMarkets(watch);
+  } catch (e) {
+    error = String(e.message || e);
+    rows = [];
+  } finally {
+    busy = false; render();
+  }
+}
+
+function render() {
+  root.innerHTML = `
+  <main class="app">
+    <h1 class="brand">Local Crypto Tracker</h1>
+    <p class="lede">Watchlist prices from CoinGecko, stored only in this browser. No account.</p>
+    <div class="toolbar">
+      <input id="add" placeholder="coin id (e.g. cardano)" />
+      <button type="button" class="primary" id="addBtn">Add</button>
+      <button type="button" id="refresh" ${busy ? "disabled" : ""}>${busy ? "Loading…" : "Refresh"}</button>
+    </div>
+    ${error ? `<p class="error">${error}</p>` : ""}
+    <div class="grid">
+      ${rows.map((c) => {
+        const pct = c.price_change_percentage_24h;
+        const cls = pct >= 0 ? "up" : "down";
+        return `<article class="card">
+          <h2>${c.name} <span style="opacity:.7">(${c.symbol?.toUpperCase() || ""})</span></h2>
+          <div class="price">${fmtUsd(c.current_price)}</div>
+          <div class="chg ${cls}">${fmtPct(pct)} 24h</div>
+          <div class="meta">MCap ${fmtUsd(c.market_cap)} · Rank #${c.market_cap_rank ?? "—"}</div>
+          <div class="meta"><button type="button" data-rm="${c.id}">Remove</button></div>
+        </article>`;
+      }).join("") || (busy ? "" : "<p class='meta'>No prices yet — hit Refresh.</p>")}
+    </div>
+    <section class="watch">
+      <h2 style="margin:0 0 .6rem;font-size:1.05rem">Watchlist ids</h2>
+      <table><thead><tr><th>id</th></tr></thead>
+      <tbody>${watch.map((id) => `<tr><td>${id}</td></tr>`).join("")}</tbody></table>
+    </section>
+    <p class="foot">Data: public CoinGecko API · Updated locally on demand</p>
+    <aside id="insights" class="foot"></aside>
+  </main>`;
+
+  root.querySelector("#refresh")?.addEventListener("click", refresh);
+  root.querySelector("#addBtn")?.addEventListener("click", () => {
+    const id = root.querySelector("#add").value.trim().toLowerCase();
+    if (!id) return;
+    if (!watch.includes(id)) { watch = [...watch, id]; saveWatch(watch); }
+    root.querySelector("#add").value = "";
+    refresh();
+  });
+  root.querySelectorAll("[data-rm]").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      watch = watch.filter((x) => x !== btn.getAttribute("data-rm"));
+      saveWatch(watch);
+      refresh();
+    });
+  });
+}
+
+render();
+refresh();
+
+fetch("./insights.json", { cache: "no-store" })
   .then((r) => (r.ok ? r.json() : null))
   .then((data) => {
     if (!data) return;
-    const box = document.createElement("aside");
-    box.className = "foot";
-    box.style.cssText = "margin-top:1.25rem;padding:0.85rem 1rem;border:1px solid var(--line,#243041);border-radius:12px;max-width:1100px;margin-left:auto;margin-right:auto";
-    box.innerHTML = "<strong>Web insights</strong><div>" + (data.headline || "") + "</div><div style=\"opacity:.85\">" + (data.summary || "") + "</div>";
-    document.body.appendChild(box);
+    const el = document.querySelector("#insights");
+    if (el) el.innerHTML = "<strong>Web insights</strong> — " + (data.headline || "") + "<br/>" + (data.summary || "");
   })
   .catch(() => {});

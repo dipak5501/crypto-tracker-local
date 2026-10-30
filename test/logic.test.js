@@ -1,4 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { run } from "../src/logic.js";
-test("run returns text", () => { assert.equal(typeof run(), "string"); assert.ok(run().length > 10); });
+import { fmtUsd, fmtPct } from "../src/logic.js";
+test("fmt", () => {
+  assert.match(fmtUsd(12.3), /\$/);
+  assert.equal(fmtPct(1.5), "+1.50%");
+});
