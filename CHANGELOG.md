@@ -737,3 +737,21 @@ Signals:
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
 - simbasjungles/free-my-tv
+
+## 2026-10-30 — web-learn-2026-10-30T14
+
+Improve Local Crypto Tracker with Public Trend Signals
+
+By integrating public trend signals, the Local Crypto Tracker can offer more accurate and timely cryptocurrency price updates for local areas. This will enhance user experience and provide valuable insights into regional market trends.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- ly05010419/MacNativeGames
+- xiaoyang111222/cn-math-taxonomy
