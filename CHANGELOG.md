@@ -809,3 +809,21 @@ Signals:
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
 - xiaoyang111222/cn-math-taxonomy
+
+## 2026-10-31 — web-learn-2026-10-31T02
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price tracking for users in their local area. This will help users make better-informed decisions about their investments.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- xiaoyang111222/cn-math-taxonomy
+- simbasjungles/free-my-tv
+- unclebob/ub-mode
