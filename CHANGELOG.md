@@ -1079,3 +1079,21 @@ Signals:
 - unclebob/ub-mode
 - simbasjungles/free-my-tv
 - rddmwmddr/android-ad-cleaner
+
+## 2026-11-01 — web-learn-2026-11-01T21
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area. This improvement will enhance user experience by offering real-time market insights.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- pengchujin/aerial-tv
+- deepseek-ai/dsh-superagent-prototype
+- unclebob/ub-mode
+- simbasjungles/free-my-tv
+- rddmwmddr/android-ad-cleaner
