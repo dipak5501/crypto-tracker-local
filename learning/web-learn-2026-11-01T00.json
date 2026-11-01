@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-01T00:16:42.035Z",
+  "featureId": "web-learn-2026-11-01T00",
+  "slug": "local-crypto",
+  "idea": {
+    "headline": "Local Crypto Tracker Enhancements",
+    "summary": "To improve the Local Crypto Tracker, focus on integrating real-time price updates from local exchanges, adding a feature for users to set alerts based on specific cryptocurrency trends, and implementing a user-friendly interface that displays data in an easily digestible format.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 8322
+    },
+    {
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 5808
+    },
+    {
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 5573
+    },
+    {
+      "source": "github_search",
+      "title": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 5363
+    },
+    {
+      "source": "github_search",
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 4666
+    },
+    {
+      "source": "github_search",
+      "title": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "score": 4626
+    },
+    {
+      "source": "github_search",
+      "title": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "score": 4001
+    },
+    {
+      "source": "github_search",
+      "title": "Jakeschincariol/day-trader-skill",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "score": 3973
+    },
+    {
+      "source": "github_search",
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "score": 3591
+    },
+    {
+      "source": "github_search",
+      "title": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "score": 3554
+    },
+    {
+      "source": "github_search",
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "score": 3453
+    },
+    {
+      "source": "github_search",
+      "title": "JoasASantos/REA-Prompts",
+      "url": "https://github.com/JoasASantos/REA-Prompts",
+      "score": 3345
+    }
+  ]
+}

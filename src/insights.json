@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-31T21:13:44.399Z",
+  "updatedAt": "2026-11-01T00:16:42.035Z",
   "app": "Local Crypto Tracker",
-  "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-  "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their area. This improvement will help users make informed decisions about their investments.",
+  "headline": "Local Crypto Tracker Enhancements",
+  "summary": "To improve the Local Crypto Tracker, focus on integrating real-time price updates from local exchanges, adding a feature for users to set alerts based on specific cryptocurrency trends, and implementing a user-friendly interface that displays data in an easily digestible format.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -11,39 +11,39 @@
   "signals": [
     {
       "source": "github_search",
-      "title": "Zagitta/gpu-unlock",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 13814
-    },
-    {
-      "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8314
+      "score": 8322
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 5714
-    },
-    {
-      "source": "github_search",
-      "title": "xiaoyang111222/cn-math-taxonomy",
-      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 5640
+      "score": 5808
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5563
+      "score": 5573
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5351
+      "score": 5363
+    },
+    {
+      "source": "github_search",
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 4666
+    },
+    {
+      "source": "github_search",
+      "title": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "score": 4626
     }
   ]
 }
