@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-02T06:48:03.996Z",
-  "featureId": "web-learn-2026-11-02T06",
+  "at": "2026-11-02T09:51:24.191Z",
+  "featureId": "web-learn-2026-11-02T09",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-    "summary": "By integrating public trend signals, the Local Crypto Tracker can offer more accurate and timely cryptocurrency price updates, helping users make informed decisions. This improvement will also allow for better visualization of trends through interactive charts.",
+    "headline": "Enhance Local Crypto Tracker with AI and User Experience Improvements",
+    "summary": "By integrating real-time data analysis, user-friendly interface enhancements, and location-based cryptocurrency tracking features, the Local Crypto Tracker can provide a more accurate and engaging experience for users interested in local crypto markets.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 9730
+      "score": 10709
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8809
+      "score": 8895
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6351
+      "score": 6412
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5747
+      "score": 5802
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5278
-    },
-    {
-      "source": "github_search",
-      "title": "heydamir/unslop",
-      "url": "https://github.com/heydamir/unslop",
-      "score": 5152
+      "score": 5361
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 5122
+      "score": 5321
+    },
+    {
+      "source": "github_search",
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "score": 5306
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4678
+      "score": 4687
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 4416
+      "score": 4682
     },
     {
       "source": "github_search",
       "title": "Jakeschincariol/day-trader-skill",
       "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "score": 4381
-    },
-    {
-      "source": "github_search",
-      "title": "interplains/Zero-Breach-Toolkit",
-      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 4187
+      "score": 4426
     },
     {
       "source": "github_search",
       "title": "l0ng-ai/openidea",
       "url": "https://github.com/l0ng-ai/openidea",
-      "score": 4081
+      "score": 4336
+    },
+    {
+      "source": "github_search",
+      "title": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "score": 4197
     }
   ]
 }
