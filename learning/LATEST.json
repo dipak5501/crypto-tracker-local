@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-01T21:37:47.558Z",
-  "featureId": "web-learn-2026-11-01T21",
+  "at": "2026-11-02T00:41:08.565Z",
+  "featureId": "web-learn-2026-11-02T00",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-    "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area. This improvement will enhance user experience by offering real-time market insights.",
+    "headline": "Enhance Local Crypto Tracker with AI and Trend Analysis",
+    "summary": "Integrate real-time data from local market trends using AI to provide more accurate cryptocurrency price predictions. Implement a user-friendly interface for easy tracking of local crypto prices, and incorporate machine learning models to identify potential investment opportunities.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8659
+      "score": 8674
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 6958
+      "score": 7281
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6205
-    },
-    {
-      "source": "github_search",
-      "title": "simbasjungles/free-my-tv",
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5661
+      "score": 6242
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5622
+      "score": 5631
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5123
+      "score": 5136
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 4747
+      "score": 4866
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4662
+      "score": 4667
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 4576
+      "score": 4629
     },
     {
       "source": "github_search",
       "title": "Jakeschincariol/day-trader-skill",
       "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "score": 4275
+      "score": 4318
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 4123
+      "score": 4148
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 3761
+      "score": 3831
+    },
+    {
+      "source": "github_search",
+      "title": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "score": 3709
     }
   ]
 }
