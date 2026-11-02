@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-02T19:03:13.359Z",
-  "featureId": "web-learn-2026-11-02T19",
+  "at": "2026-11-02T22:07:06.747Z",
+  "featureId": "web-learn-2026-11-02T22",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Update Local Crypto Tracker with Real-Time Data and Enhanced User Experience",
-    "summary": "To improve the Local Crypto Tracker, integrate real-time cryptocurrency price updates and optimize database queries for faster load times. Additionally, implement a user-friendly interface that allows users to filter cryptocurrencies by location or category.",
+    "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
+    "summary": "Integrate real-time market data and local trends to improve the accuracy of cryptocurrency price tracking in your area. Leverage AI for predictive analysis and user-friendly visualization tools.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -13,76 +13,76 @@
   },
   "signals": [
     {
-      "source": "hackernews",
-      "title": "WTF Ubuntu?",
-      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-      "score": 881
+      "source": "github_search",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 12917
     },
     {
-      "source": "hackernews",
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "score": 787
+      "source": "github_search",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 9000
     },
     {
-      "source": "hackernews",
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://subvocal.company/",
-      "score": 218
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 6530
     },
     {
-      "source": "hackernews",
-      "title": "If you love a website, back it up",
-      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "score": 201
+      "source": "github_search",
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "score": 6141
     },
     {
-      "source": "hackernews",
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "score": 149
+      "source": "github_search",
+      "title": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 5891
     },
     {
-      "source": "hackernews",
-      "title": "Moving our warehouse off DuckDB",
-      "url": "https://posthog.com/blog/moving-off-duckdb",
-      "score": 111
+      "source": "github_search",
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "score": 5797
     },
     {
-      "source": "hackernews",
-      "title": "Ask HN: Who is hiring? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50338728",
-      "score": 108
+      "source": "github_search",
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 5478
     },
     {
-      "source": "hackernews",
-      "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "score": 107
+      "source": "github_search",
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 5232
     },
     {
-      "source": "hackernews",
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "score": 105
+      "source": "github_search",
+      "title": "l0ng-ai/openidea",
+      "url": "https://github.com/l0ng-ai/openidea",
+      "score": 4912
     },
     {
-      "source": "hackernews",
-      "title": "We halved DNS build delay and cut memory use by 85%",
-      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-      "score": 75
+      "source": "github_search",
+      "title": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "score": 4702
     },
     {
-      "source": "hackernews",
-      "title": "My Favourite Laptop",
-      "url": "https://blog.jsbarretto.com/post/laptop",
-      "score": 73
+      "source": "github_search",
+      "title": "Jakeschincariol/day-trader-skill",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "score": 4562
     },
     {
-      "source": "hackernews",
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "score": 62
+      "source": "github_search",
+      "title": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "score": 4272
     }
   ]
 }

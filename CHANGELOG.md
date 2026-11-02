@@ -1241,3 +1241,21 @@ Signals:
 - Show HN: Subvocal – Talk to your computer without making noise
 - If you love a website, back it up
 - Anthropic's internal AI use, at retail prices, now exceeds its employee pay
+
+## 2026-11-02 — web-learn-2026-11-02T22
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+Integrate real-time market data and local trends to improve the accuracy of cryptocurrency price tracking in your area. Leverage AI for predictive analysis and user-friendly visualization tools.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- pengchujin/aerial-tv
+- unclebob/ub-mode
+- heydamir/unslop
+- rddmwmddr/android-ad-cleaner
