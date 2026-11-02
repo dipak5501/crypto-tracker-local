@@ -1223,3 +1223,21 @@ Signals:
 - unclebob/ub-mode
 - rddmwmddr/android-ad-cleaner
 - heydamir/unslop
+
+## 2026-11-02 — web-learn-2026-11-02T19
+
+Update Local Crypto Tracker with Real-Time Data and Enhanced User Experience
+
+To improve the Local Crypto Tracker, integrate real-time cryptocurrency price updates and optimize database queries for faster load times. Additionally, implement a user-friendly interface that allows users to filter cryptocurrencies by location or category.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- WTF Ubuntu?
+- Postgres 19 is late because so many more bugs are being found now
+- Show HN: Subvocal – Talk to your computer without making noise
+- If you love a website, back it up
+- Anthropic's internal AI use, at retail prices, now exceeds its employee pay
