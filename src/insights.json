@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-02T00:41:08.565Z",
+  "updatedAt": "2026-11-02T03:44:34.196Z",
   "app": "Local Crypto Tracker",
-  "headline": "Enhance Local Crypto Tracker with AI and Trend Analysis",
-  "summary": "Integrate real-time data from local market trends using AI to provide more accurate cryptocurrency price predictions. Implement a user-friendly interface for easy tracking of local crypto prices, and incorporate machine learning models to identify potential investment opportunities.",
+  "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
+  "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and relevant cryptocurrency price updates for users in their local area. This improvement will help users make better-informed decisions about their investments.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -11,39 +11,39 @@
   "signals": [
     {
       "source": "github_search",
-      "title": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8674
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 8850
     },
     {
       "source": "github_search",
-      "title": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 7281
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 8737
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6242
+      "score": 6306
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5631
+      "score": 5697
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5136
+      "score": 5214
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 4866
+      "score": 5009
     }
   ]
 }
