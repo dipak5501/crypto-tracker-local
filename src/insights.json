@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-02T22:07:06.747Z",
+  "updatedAt": "2026-11-03T01:10:52.773Z",
   "app": "Local Crypto Tracker",
   "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-  "summary": "Integrate real-time market data and local trends to improve the accuracy of cryptocurrency price tracking in your area. Leverage AI for predictive analysis and user-friendly visualization tools.",
+  "summary": "Integrate real-time data from public APIs to provide more accurate and up-to-date cryptocurrency prices, implement a user-friendly interface based on UncleBob's Ubiquitous Language principles for better understanding of local crypto trends, and use AI models like DeepSeek-AI’s SuperAgent Prototype for predictive analysis.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 12917
-    },
-    {
-      "source": "github_search",
-      "title": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 9000
+      "score": 13215
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6530
+      "score": 6551
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 6141
+      "score": 6281
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5891
+      "score": 5900
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 5797
+      "score": 5887
+    },
+    {
+      "source": "github_search",
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 5489
     }
   ]
 }
