@@ -1313,3 +1313,21 @@ Signals:
 - heydamir/unslop
 - ccch1mneyyy/dsh-Go
 - rddmwmddr/android-ad-cleaner
+
+## 2026-11-03 — web-learn-2026-11-03T10
+
+Enhance Local Crypto Tracker with Trend Signals
+
+By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for local users. This improvement will help users make better-informed decisions about their investments.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- unclebob/ub-mode
+- ccch1mneyyy/dsh-Go
+- rddmwmddr/android-ad-cleaner
