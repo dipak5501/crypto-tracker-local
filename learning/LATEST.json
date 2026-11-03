@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-03T19:32:32.536Z",
-  "featureId": "web-learn-2026-11-03T19",
+  "at": "2026-11-03T22:37:38.799Z",
+  "featureId": "web-learn-2026-11-03T22",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Enhance Local Crypto Tracker with AI Trends",
-    "summary": "Integrate real-time cryptocurrency price analysis using AI to provide users with more accurate and timely information. Implement a user-friendly interface that leverages natural language processing for better interaction, and incorporate machine learning models to predict market trends.",
+    "headline": "Local Crypto Tracker Improvements",
+    "summary": "To enhance the Local Crypto Tracker app, focus on integrating real-time data updates, adding a user-friendly interface for easy navigation, and incorporating local market analysis to provide more relevant information.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 16393
+      "score": 16603
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 7710
-    },
-    {
-      "source": "github_search",
-      "title": "ccch1mneyyy/dsh-Go",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 7326
+      "score": 8142
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 7320
+      "score": 7466
+    },
+    {
+      "source": "github_search",
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "score": 7374
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6758
+      "score": 6777
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 6061
+      "score": 6064
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 6012
+      "score": 6028
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5769
+      "score": 5772
     },
     {
       "source": "github_search",
       "title": "l0ng-ai/openidea",
       "url": "https://github.com/l0ng-ai/openidea",
-      "score": 5553
+      "score": 5589
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4737
+      "score": 4739
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 4442
+      "score": 4481
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 4347
+      "score": 4360
     }
   ]
 }

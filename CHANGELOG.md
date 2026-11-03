@@ -1385,3 +1385,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - heydamir/unslop
 - unclebob/ub-mode
+
+## 2026-11-03 — web-learn-2026-11-03T22
+
+Local Crypto Tracker Improvements
+
+To enhance the Local Crypto Tracker app, focus on integrating real-time data updates, adding a user-friendly interface for easy navigation, and incorporating local market analysis to provide more relevant information.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- storytold/craft-anything
+- heydamir/unslop
+- ccch1mneyyy/dsh-Go
+- unclebob/ub-mode
