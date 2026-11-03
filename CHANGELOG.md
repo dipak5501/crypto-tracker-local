@@ -1349,3 +1349,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - unclebob/ub-mode
 - storytold/craft-anything
+
+## 2026-11-03 — web-learn-2026-11-03T16
+
+Improving Local Crypto Tracker with Public Trend Signals
+
+By leveraging public trend signals, we can enhance the Local Crypto Tracker to provide more accurate and relevant cryptocurrency price tracking. This will help users make informed decisions about their investments in local cryptocurrencies.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- The 'Astra can read and write weights to improve Qwen' post is misleading
+- Could a modern chess engine on a Pentium have defeated Kasparov in 1996?
+- Nvidia – open-source auto-ontology
+- Fujifilm to boost tape production 5x as AI fuels archiving demand
+- Katamari Damacy but it's The Met collection
