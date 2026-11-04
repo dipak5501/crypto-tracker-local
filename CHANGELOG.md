@@ -1421,3 +1421,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - heydamir/unslop
 - unclebob/ub-mode
+
+## 2026-11-04 — web-learn-2026-11-04T04
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area. This will enhance user experience and help them make better investment decisions.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- storytold/craft-anything
+- ccch1mneyyy/dsh-Go
+- heydamir/unslop
+- unclebob/ub-mode
