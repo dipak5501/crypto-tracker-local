@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-05T20:45:02.566Z",
+  "updatedAt": "2026-11-05T23:50:18.114Z",
   "app": "Local Crypto Tracker",
   "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-  "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and relevant cryptocurrency price tracking for users in their local area. This will enhance user experience and utility.",
+  "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area. This will improve user experience and trust in the app.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 19418
+      "score": 19469
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 14700
+      "score": 14916
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 11353
+      "score": 11410
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 9676
+      "score": 9758
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 7088
+      "score": 7097
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7059
+      "score": 7078
     }
   ]
 }
