@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-05T08:26:43.279Z",
-  "featureId": "web-learn-2026-11-05T08",
+  "at": "2026-11-05T11:31:39.376Z",
+  "featureId": "web-learn-2026-11-05T11",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Local Crypto Tracker Enhancements",
-    "summary": "To improve the Local Crypto Tracker app, we can integrate real-time data updates using a superagent prototype, incorporate interactive visualizations with craft-anything for better user engagement, and implement clean coding practices inspired by ub-mode to ensure maintainability.",
+    "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
+    "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area. This improvement will make the app more valuable to its target audience.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 19009
+      "score": 19156
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 13238
+      "score": 13736
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 10371
+      "score": 10726
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 8984
+      "score": 9109
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 7024
+      "score": 7052
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 6852
+      "score": 6928
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 6412
+      "score": 6475
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6012
-    },
-    {
-      "source": "github_search",
-      "title": "valentderah/totk-pc-recomp",
-      "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 4954
+      "score": 6035
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 4949
+      "score": 5058
+    },
+    {
+      "source": "github_search",
+      "title": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "score": 4988
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4774
+      "score": 4778
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 4440
+      "score": 4447
     }
   ]
 }
