@@ -1763,3 +1763,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - heydamir/unslop
 - wangzan101/Mika
+
+## 2026-11-06 — web-learn-2026-11-06T15
+
+Improve Local Crypto Tracker with Trend Signals
+
+Utilize public trend signals to enhance the user experience of Local Crypto Tracker, making it more efficient and secure. Focus on improving data visualization, security measures, and performance optimization.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- sshole
+- Claude Code sends your email address to websites
+- MS Paint Remote Code Execution Vulnerability
+- Blender's UI and Runtime: Much Faster Than GPUI
+- Britain to make salary disclosure in job ads mandatory
