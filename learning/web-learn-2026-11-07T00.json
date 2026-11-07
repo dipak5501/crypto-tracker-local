@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-07T00:27:55.236Z",
+  "featureId": "web-learn-2026-11-07T00",
+  "slug": "local-crypto",
+  "idea": {
+    "headline": "Enhance Local Crypto Tracker with AI Trends",
+    "summary": "Integrate real-time cryptocurrency price analysis and predictive models using AI to provide users with more accurate and timely information. Improve user engagement by incorporating interactive visualizations and notifications based on market trends.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 20240
+    },
+    {
+      "source": "github_search",
+      "title": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 18041
+    },
+    {
+      "source": "github_search",
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "score": 12932
+    },
+    {
+      "source": "github_search",
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "score": 10732
+    },
+    {
+      "source": "github_search",
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 7396
+    },
+    {
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 7208
+    },
+    {
+      "source": "github_search",
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 6248
+    },
+    {
+      "source": "github_search",
+      "title": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "score": 5589
+    },
+    {
+      "source": "github_search",
+      "title": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "score": 5404
+    },
+    {
+      "source": "github_search",
+      "title": "Djihads80/Eglantine",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "score": 4885
+    },
+    {
+      "source": "github_search",
+      "title": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "score": 4517
+    },
+    {
+      "source": "github_search",
+      "title": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "score": 4318
+    }
+  ]
+}
