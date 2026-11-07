@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-07T06:37:26.579Z",
-  "featureId": "web-learn-2026-11-07T06",
+  "at": "2026-11-07T09:42:11.661Z",
+  "featureId": "web-learn-2026-11-07T09",
   "slug": "local-crypto",
   "idea": {
     "headline": "Enhance Local Crypto Tracker with AI Trends",
-    "summary": "Integrate real-time cryptocurrency price analysis using AI to provide users with more accurate and timely information. Incorporate local market trends to offer personalized insights, and use interactive visualizations to make data easier to understand.",
+    "summary": "By integrating AI-driven analytics and user experience improvements, Local Crypto Tracker can provide more accurate price predictions and a smoother interface for users tracking cryptocurrencies in their area.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 20413
+      "score": 20516
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 18700
+      "score": 19074
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 13230
+      "score": 13374
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 10883
+      "score": 10988
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7454
+      "score": 7481
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 7217
+      "score": 7225
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6291
+      "score": 6309
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 5664
+      "score": 5700
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 5480
+      "score": 5522
     },
     {
       "source": "github_search",
       "title": "Djihads80/Eglantine",
       "url": "https://github.com/Djihads80/Eglantine",
-      "score": 4958
+      "score": 4995
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 4526
+      "score": 4530
     },
     {
       "source": "github_search",
-      "title": "designfuchen/word-atlas",
-      "url": "https://github.com/designfuchen/word-atlas",
-      "score": 4340
+      "title": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "score": 4388
     }
   ]
 }

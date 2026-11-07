@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Crypto Tracker with AI Trends
 
-Integrate real-time cryptocurrency price analysis using AI to provide users with more accurate and timely information. Incorporate local market trends to offer personalized insights, and use interactive visualizations to make data easier to understand.
+By integrating AI-driven analytics and user experience improvements, Local Crypto Tracker can provide more accurate price predictions and a smoother interface for users tracking cryptocurrencies in their area.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
