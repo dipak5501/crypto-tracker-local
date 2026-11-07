@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Local Crypto Tracker with AI and User Engagement
+**Latest:** Enhance Local Crypto Tracker with AI Trends
 
-Integrate real-time cryptocurrency price predictions using machine learning models, incorporate interactive charts for trend visualization, and implement a user feedback system to improve the app's relevance and usability.
+Integrate real-time cryptocurrency price analysis using AI to provide users with more accurate and timely information. Incorporate local market trends to offer personalized insights, and use interactive visualizations to make data easier to understand.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

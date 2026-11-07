@@ -1853,3 +1853,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - heydamir/unslop
 - wangzan101/Mika
+
+## 2026-11-07 — web-learn-2026-11-07T06
+
+Enhance Local Crypto Tracker with AI Trends
+
+Integrate real-time cryptocurrency price analysis using AI to provide users with more accurate and timely information. Incorporate local market trends to offer personalized insights, and use interactive visualizations to make data easier to understand.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- storytold/craft-anything
+- ccch1mneyyy/dsh-Go
+- heydamir/unslop
+- wangzan101/Mika
