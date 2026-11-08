@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-07T22:04:23.163Z",
+  "updatedAt": "2026-11-08T01:09:14.246Z",
   "app": "Local Crypto Tracker",
   "headline": "Enhance Local Crypto Tracker with AI Trends",
-  "summary": "Integrate public trend signals to improve the accuracy and relevance of cryptocurrency price tracking in local areas, making the app more user-friendly and informative.",
+  "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price predictions for users in their area. This will improve user engagement and satisfaction.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 20796
+      "score": 20823
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 20431
-    },
-    {
-      "source": "github_search",
-      "title": "ccch1mneyyy/dsh-Go",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 14295
+      "score": 20640
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 11316
+      "score": 11380
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7591
+      "score": 7611
     },
     {
       "source": "github_search",
-      "title": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "score": 7250
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 6372
+    },
+    {
+      "source": "github_search",
+      "title": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "score": 5837
     }
   ]
 }

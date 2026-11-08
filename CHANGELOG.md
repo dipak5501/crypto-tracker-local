@@ -1979,3 +1979,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - heydamir/unslop
 - wangzan101/Mika
+
+## 2026-11-08 — web-learn-2026-11-08T01
+
+Enhance Local Crypto Tracker with AI Trends
+
+By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price predictions for users in their area. This will improve user engagement and satisfaction.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- storytold/craft-anything
+- heydamir/unslop
+- wangzan101/Mika
+- anhao/ai-pose-gallery-zh
