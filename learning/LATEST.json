@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-08T22:44:57.658Z",
-  "featureId": "web-learn-2026-11-08T22",
+  "at": "2026-11-09T01:50:12.859Z",
+  "featureId": "web-learn-2026-11-09T01",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Enhance Local Crypto Tracker with AI Trends",
-    "summary": "Integrate AI-driven analytics to provide real-time cryptocurrency price predictions and local trend insights, improving user experience through personalized notifications and visualizations.",
+    "headline": "Enhance Local Crypto Tracker with Trend Analysis",
+    "summary": "To improve the Local Crypto Tracker, integrate real-time trend analysis and local market data to provide users with more accurate and relevant cryptocurrency price information. Implement a user-friendly interface that allows for easy navigation through different cryptocurrencies and their trends.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 22487
+      "score": 22727
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 21180
+      "score": 21215
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 11931
+      "score": 12022
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7736
+      "score": 7750
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 6760
+      "score": 6882
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6439
+      "score": 6447
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 6072
+      "score": 6094
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 5910
+      "score": 5940
     },
     {
       "source": "github_search",
       "title": "Eglantine-Community/Eglantine",
       "url": "https://github.com/Eglantine-Community/Eglantine",
-      "score": 5426
+      "score": 5452
     },
     {
       "source": "github_search",
       "title": "JuneYaooo/rea-video",
       "url": "https://github.com/JuneYaooo/rea-video",
-      "score": 4397
+      "score": 4541
     },
     {
       "source": "github_search",
       "title": "BryceYuuu/RUN",
       "url": "https://github.com/BryceYuuu/RUN",
-      "score": 4249
+      "score": 4255
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 4095
+      "score": 4111
     }
   ]
 }
