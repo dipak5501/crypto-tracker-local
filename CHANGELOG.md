@@ -2321,3 +2321,21 @@ Signals:
 - heydamir/unslop
 - wangzan101/Mika
 - zortos293/Lichii
+
+## 2026-11-10 — web-learn-2026-11-10T11
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+Integrate real-time local market trends and user-generated content to provide more accurate cryptocurrency price tracking, while incorporating interactive visualizations for better user engagement.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- wangzan101/Mika
+- zortos293/Lichii
