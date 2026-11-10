@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Crypto Tracker with Trend Signals
 
-By integrating storytelling and AI-driven insights, the Local Crypto Tracker can provide a more engaging user experience. Utilizing unsloped data visualization techniques will make trends clearer to users.
+Integrate storytelling and interactive elements to make the Local Crypto Tracker more engaging, utilize AI for real-time data updates, and improve user experience through minimalistic design principles.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

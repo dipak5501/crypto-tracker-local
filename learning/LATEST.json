@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-10T18:01:01.386Z",
-  "featureId": "web-learn-2026-11-10T18",
+  "at": "2026-11-10T21:06:35.659Z",
+  "featureId": "web-learn-2026-11-10T21",
   "slug": "local-crypto",
   "idea": {
     "headline": "Enhance Local Crypto Tracker with Trend Signals",
-    "summary": "By integrating storytelling and AI-driven insights, the Local Crypto Tracker can provide a more engaging user experience. Utilizing unsloped data visualization techniques will make trends clearer to users.",
+    "summary": "Integrate storytelling and interactive elements to make the Local Crypto Tracker more engaging, utilize AI for real-time data updates, and improve user experience through minimalistic design principles.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 25893
+      "score": 26052
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22134
+      "score": 22156
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 13534
+      "score": 13630
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8057
-    },
-    {
-      "source": "github_search",
-      "title": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "score": 8049
+      "score": 8121
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8030
+      "score": 8081
+    },
+    {
+      "source": "github_search",
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 8061
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 6621
+      "score": 6640
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 6366
+      "score": 6387
     },
     {
       "source": "github_search",
       "title": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
-      "score": 6226
+      "score": 6369
     },
     {
       "source": "github_search",
       "title": "JuneYaooo/rea-video",
       "url": "https://github.com/JuneYaooo/rea-video",
-      "score": 6214
+      "score": 6282
     },
     {
       "source": "github_search",
       "title": "Eglantine-Community/Eglantine",
       "url": "https://github.com/Eglantine-Community/Eglantine",
-      "score": 5751
+      "score": 5761
     },
     {
       "source": "github_search",
       "title": "anefzaoui/misterdownloadmanager",
       "url": "https://github.com/anefzaoui/misterdownloadmanager",
-      "score": 5309
+      "score": 5429
     }
   ]
 }
