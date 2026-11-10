@@ -2357,3 +2357,21 @@ Signals:
 - heydamir/unslop
 - wangzan101/Mika
 - zortos293/Lichii
+
+## 2026-11-10 — web-learn-2026-11-10T18
+
+Enhance Local Crypto Tracker with Trend Signals
+
+By integrating storytelling and AI-driven insights, the Local Crypto Tracker can provide a more engaging user experience. Utilizing unsloped data visualization techniques will make trends clearer to users.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- zortos293/Lichii
+- wangzan101/Mika
