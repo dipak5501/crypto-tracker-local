@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-11T12:34:19.227Z",
+  "featureId": "web-learn-2026-11-11T12",
+  "slug": "local-crypto",
+  "idea": {
+    "headline": "Enhance Local Crypto Tracker with Trend Analysis",
+    "summary": "Integrate real-time local market trends and predictive analytics to provide users with more accurate cryptocurrency price tracking. Incorporate a user-friendly interface for easy navigation and interaction, and implement push notifications for significant price changes.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 27699
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 22393
+    },
+    {
+      "source": "github_search",
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "score": 14209
+    },
+    {
+      "source": "github_search",
+      "title": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "score": 8361
+    },
+    {
+      "source": "github_search",
+      "title": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "score": 8258
+    },
+    {
+      "source": "github_search",
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 8186
+    },
+    {
+      "source": "github_search",
+      "title": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "score": 7108
+    },
+    {
+      "source": "github_search",
+      "title": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "score": 6873
+    },
+    {
+      "source": "github_search",
+      "title": "JuneYaooo/rea-video",
+      "url": "https://github.com/JuneYaooo/rea-video",
+      "score": 6848
+    },
+    {
+      "source": "github_search",
+      "title": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "score": 6583
+    },
+    {
+      "source": "github_search",
+      "title": "anefzaoui/misterdownloadmanager",
+      "url": "https://github.com/anefzaoui/misterdownloadmanager",
+      "score": 6296
+    },
+    {
+      "source": "github_search",
+      "title": "Eglantine-Community/Eglantine",
+      "url": "https://github.com/Eglantine-Community/Eglantine",
+      "score": 5815
+    }
+  ]
+}
