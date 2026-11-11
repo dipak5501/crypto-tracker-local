@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-10T21:06:35.659Z",
+  "updatedAt": "2026-11-11T00:11:54.127Z",
   "app": "Local Crypto Tracker",
-  "headline": "Enhance Local Crypto Tracker with Trend Signals",
-  "summary": "Integrate storytelling and interactive elements to make the Local Crypto Tracker more engaging, utilize AI for real-time data updates, and improve user experience through minimalistic design principles.",
+  "headline": "Enhance Local Crypto Tracker with Interactive Features",
+  "summary": "Integrate real-time data visualization and user-friendly interface improvements to make the Local Crypto Tracker more engaging. Implement personalized alerts based on user preferences for a better user experience.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 26052
+      "score": 26229
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22156
+      "score": 22171
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 13630
+      "score": 13706
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8121
+      "score": 8179
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8081
+      "score": 8129
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 8061
+      "score": 8074
     }
   ]
 }
