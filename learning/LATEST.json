@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-11T06:23:04.148Z",
-  "featureId": "web-learn-2026-11-11T06",
+  "at": "2026-11-11T09:28:44.544Z",
+  "featureId": "web-learn-2026-11-11T09",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-    "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and relevant cryptocurrency price tracking for users in their local area. This improvement will help users make better-informed decisions based on real-time market trends.",
+    "headline": "Enhance Local Crypto Tracker with AI and User Experience Improvements",
+    "summary": "Integrate AI-driven insights to provide users with real-time market analysis, improve the user interface for better navigation, and implement a notification system for price alerts.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 26944
+      "score": 27404
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22278
+      "score": 22343
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 13971
+      "score": 14094
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8265
+      "score": 8318
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8194
+      "score": 8232
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 8124
+      "score": 8158
     },
     {
       "source": "github_search",
       "title": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
-      "score": 6832
+      "score": 6971
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 6768
+      "score": 6836
     },
     {
       "source": "github_search",
       "title": "JuneYaooo/rea-video",
       "url": "https://github.com/JuneYaooo/rea-video",
-      "score": 6602
+      "score": 6747
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 6514
+      "score": 6554
     },
     {
       "source": "github_search",
       "title": "anefzaoui/misterdownloadmanager",
       "url": "https://github.com/anefzaoui/misterdownloadmanager",
-      "score": 5878
+      "score": 6098
     },
     {
       "source": "github_search",
       "title": "Eglantine-Community/Eglantine",
       "url": "https://github.com/Eglantine-Community/Eglantine",
-      "score": 5796
+      "score": 5805
     }
   ]
 }
