@@ -2501,3 +2501,21 @@ Signals:
 - heydamir/unslop
 - zortos293/Lichii
 - Minireel/HGhub
+
+## 2026-11-11 — web-learn-2026-11-11T18
+
+Enhance Local Crypto Tracker with Trend Signals
+
+Integrate interactive storytelling elements and AI-driven data analysis to make the Local Crypto Tracker more engaging and insightful. Implement real-time video updates for price trends, and add a customizable dashboard feature.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- zortos293/Lichii
+- Minireel/HGhub
