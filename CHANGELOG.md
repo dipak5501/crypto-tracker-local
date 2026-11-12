@@ -2555,3 +2555,21 @@ Signals:
 - zortos293/Lichii
 - Minireel/HGhub
 - NotRexed/Hookshot
+
+## 2026-11-12 — web-learn-2026-11-12T04
+
+Enhance Local Crypto Tracker with AI Trends
+
+By integrating public trend signals, the Local Crypto Tracker can offer more accurate and dynamic cryptocurrency price tracking. This will help users make better investment decisions based on real-time data analysis.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- zortos293/Lichii
+- Minireel/HGhub
+- NotRexed/Hookshot
