@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-11T21:51:48.724Z",
+  "updatedAt": "2026-11-12T00:57:43.932Z",
   "app": "Local Crypto Tracker",
-  "headline": "Enhance Local Crypto Tracker with AI and User Experience Improvements",
-  "summary": "By integrating AI-driven insights and improving user experience, the Local Crypto Tracker can offer more accurate price predictions and a smoother interface for tracking cryptocurrencies locally.",
+  "headline": "Enhance Local Crypto Tracker with AI Trends",
+  "summary": "Integrate real-time data analysis and predictive models to offer users more accurate cryptocurrency price predictions. Implement a user-friendly interface that visualizes trends through interactive charts and graphs, making it easier for users to understand market movements.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 28282
+      "score": 28401
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22481
-    },
-    {
-      "source": "github_search",
-      "title": "heydamir/unslop",
-      "url": "https://github.com/heydamir/unslop",
-      "score": 14475
+      "score": 22493
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8497
+      "score": 8539
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8283
+      "score": 8291
     },
     {
       "source": "github_search",
-      "title": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "score": 8240
+      "title": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "score": 7806
+    },
+    {
+      "source": "github_search",
+      "title": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "score": 6986
     }
   ]
 }
