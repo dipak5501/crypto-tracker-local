@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-12T10:14:30.358Z",
+  "updatedAt": "2026-11-12T13:20:25.548Z",
   "app": "Local Crypto Tracker",
   "headline": "Enhance Local Crypto Tracker with AI Trends",
-  "summary": "By integrating public trend signals, the Local Crypto Tracker can offer more accurate and timely cryptocurrency price updates for users in their area. This will help users make better-informed investment decisions.",
+  "summary": "By integrating public trend signals, the Local Crypto Tracker can offer more accurate and real-time cryptocurrency price tracking. This improvement will help users make better investment decisions based on local market trends.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 29133
+      "score": 29349
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22646
+      "score": 22669
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8632
+      "score": 8662
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8391
+      "score": 8460
     },
     {
       "source": "github_search",
       "title": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
-      "score": 8193
+      "score": 8334
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 7087
+      "score": 7113
     }
   ]
 }
