@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-13T11:02:21.649Z",
+  "updatedAt": "2026-11-13T14:08:42.744Z",
   "app": "Local Crypto Tracker",
   "headline": "Enhance Local Crypto Tracker with AI Trends",
-  "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price predictions for users in their area. This improvement will help users make better-informed investment decisions.",
+  "summary": "By integrating public trend signals, the Local Crypto Tracker can offer more accurate and timely cryptocurrency price predictions. This will help users make better investment decisions based on local market trends.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 30829
+      "score": 31011
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22931
-    },
-    {
-      "source": "github_search",
-      "title": "NotRexed/Hookshot",
-      "url": "https://github.com/NotRexed/Hookshot",
-      "score": 9115
+      "score": 22969
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8850
+      "score": 8885
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8764
+      "score": 8787
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 8007
+      "score": 8073
+    },
+    {
+      "source": "github_search",
+      "title": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "score": 7184
     }
   ]
 }
