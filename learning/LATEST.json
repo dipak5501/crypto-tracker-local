@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-13T20:20:02.069Z",
-  "featureId": "web-learn-2026-11-13T20",
+  "at": "2026-11-13T23:26:23.675Z",
+  "featureId": "web-learn-2026-11-13T23",
   "slug": "local-crypto",
   "idea": {
     "headline": "Enhance Local Crypto Tracker with AI Trends",
-    "summary": "Integrate advanced AI features to provide real-time cryptocurrency price predictions and local market trend analysis, improving user experience and accuracy. Implement a chatbot for customer support and personalized recommendations based on user preferences.",
+    "summary": "Integrate AI-driven analytics to provide real-time cryptocurrency price updates and predictive trends. Utilize natural language processing for user-friendly interaction and personalization features.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,7 +16,7 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 31326
+      "score": 31393
     },
     {
       "source": "github_search",
@@ -28,61 +28,61 @@
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8957
+      "score": 8980
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8815
+      "score": 8819
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 8209
+      "score": 8259
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7267
+      "score": 7293
     },
     {
       "source": "github_search",
       "title": "Lee-xeo/Claude-Cage",
       "url": "https://github.com/Lee-xeo/Claude-Cage",
-      "score": 5223
+      "score": 5227
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 5115
+      "score": 5120
     },
     {
       "source": "github_search",
       "title": "expo/exact",
       "url": "https://github.com/expo/exact",
-      "score": 3909
+      "score": 3984
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 3836
+      "score": 3875
     },
     {
       "source": "github_search",
       "title": "Verlintas/NOIR",
       "url": "https://github.com/Verlintas/NOIR",
-      "score": 3346
+      "score": 3348
     },
     {
       "source": "github_search",
       "title": "mromidev/claude-animated-shorts",
       "url": "https://github.com/mromidev/claude-animated-shorts",
-      "score": 3232
+      "score": 3254
     }
   ]
 }
