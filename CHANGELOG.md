@@ -2825,3 +2825,21 @@ Signals:
 - zortos293/Lichii
 - Minireel/HGhub
 - janestreet/agent_skills
+
+## 2026-11-14 — web-learn-2026-11-14T02
+
+Enhance Local Crypto Tracker with Trend Analysis
+
+By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price predictions for users in their local area. This improvement will help users make better investment decisions based on real-time market trends.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- expo/exact
