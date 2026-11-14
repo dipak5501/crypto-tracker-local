@@ -2915,3 +2915,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - expo/exact
+
+## 2026-11-14 — web-learn-2026-11-14T18
+
+Enhance Local Crypto Tracker with Trend Analysis
+
+Integrate real-time market trend signals and local price data to provide users with more accurate and timely cryptocurrency tracking. Improve user experience by adding interactive charts and alerts for significant price movements.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- expo/exact
