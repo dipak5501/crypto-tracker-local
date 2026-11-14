@@ -2843,3 +2843,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - expo/exact
+
+## 2026-11-14 — web-learn-2026-11-14T05
+
+Enhancing Local Crypto Tracker
+
+By integrating real-time data from financial APIs and utilizing machine learning for trend analysis, the Local Crypto Tracker can provide more accurate and predictive insights. Adding a local currency conversion feature will also make it more useful for users in different regions.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- expo/exact
