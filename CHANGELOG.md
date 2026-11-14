@@ -2933,3 +2933,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - expo/exact
+
+## 2026-11-14 — web-learn-2026-11-14T21
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+Integrate real-time market data and user feedback mechanisms to improve the accuracy and relevance of cryptocurrency price tracking in local areas. Implement AI-driven trend analysis for better insights and predictive capabilities.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- expo/exact
