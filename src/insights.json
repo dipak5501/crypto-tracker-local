@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-15T00:14:08.637Z",
+  "updatedAt": "2026-11-15T03:19:49.930Z",
   "app": "Local Crypto Tracker",
   "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-  "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for local users. This will help users make informed decisions about their investments.",
+  "summary": "By integrating features from recent public trend signals, the Local Crypto Tracker can offer more accurate and timely cryptocurrency price tracking for users in their local area. This will improve user experience and provide valuable insights into market trends.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -19,31 +19,31 @@
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 8626
+      "score": 8661
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7560
+      "score": 7591
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 5334
+      "score": 5354
     },
     {
       "source": "github_search",
       "title": "expo/exact",
       "url": "https://github.com/expo/exact",
-      "score": 4182
+      "score": 4198
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4096
+      "score": 4120
     }
   ]
 }
