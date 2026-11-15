@@ -3041,3 +3041,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - libracoder/kiri
+
+## 2026-11-15 — web-learn-2026-11-15T15
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+By integrating real-time market data and user interaction insights from public trend signals, the Local Crypto Tracker can provide more accurate and personalized cryptocurrency price tracking for users in their local area.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- libracoder/kiri
