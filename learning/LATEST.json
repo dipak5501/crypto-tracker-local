@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-15T21:55:43.272Z",
-  "featureId": "web-learn-2026-11-15T21",
+  "at": "2026-11-16T01:01:38.898Z",
+  "featureId": "web-learn-2026-11-16T01",
   "slug": "local-crypto",
   "idea": {
     "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-    "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area. This will improve user experience and trust in the application.",
+    "summary": "Integrate real-time market analysis tools and local economic indicators to provide more accurate cryptocurrency price tracking, allowing users to make informed decisions based on both global trends and local factors.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8979
+      "score": 9004
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 8936
+      "score": 8986
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7730
-    },
-    {
-      "source": "github_search",
-      "title": "libracoder/kiri",
-      "url": "https://github.com/libracoder/kiri",
-      "score": 6123
+      "score": 7743
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 5492
-    },
-    {
-      "source": "github_search",
-      "title": "expo/exact",
-      "url": "https://github.com/expo/exact",
-      "score": 4301
+      "score": 5504
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4200
+      "score": 4220
     },
     {
       "source": "github_search",
       "title": "shanselman/gputaskman",
       "url": "https://github.com/shanselman/gputaskman",
-      "score": 3331
+      "score": 3342
     },
     {
       "source": "github_search",
       "title": "JenkinWoo/sheeridVerify",
       "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "score": 3259
+      "score": 3263
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3184
+      "score": 3200
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 2865
+      "score": 2985
     },
     {
       "source": "github_search",
       "title": "govijr/terminal-mac",
       "url": "https://github.com/govijr/terminal-mac",
-      "score": 2770
+      "score": 2774
+    },
+    {
+      "source": "github_search",
+      "title": "sarpstar/cinecode",
+      "url": "https://github.com/sarpstar/cinecode",
+      "score": 2558
+    },
+    {
+      "source": "github_search",
+      "title": "jamesondh/chimera-vocal-synth",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth",
+      "score": 2471
     }
   ]
 }
