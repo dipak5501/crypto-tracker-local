@@ -3221,3 +3221,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - tangerineturtle1/NX2navi
+
+## 2026-11-16 — web-learn-2026-11-16T22
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+Integrate real-time market analysis and user feedback mechanisms to improve the accuracy and relevance of cryptocurrency price tracking in local areas, thereby enhancing user experience and engagement.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- janestreet/agent_skills
+- Minireel/HGhub
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- tangerineturtle1/NX2navi
