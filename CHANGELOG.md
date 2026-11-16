@@ -3203,3 +3203,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - tangerineturtle1/NX2navi
+
+## 2026-11-16 — web-learn-2026-11-16T19
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area. This will enhance user experience and help them make informed decisions about their investments.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- janestreet/agent_skills
+- Minireel/HGhub
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- tangerineturtle1/NX2navi
