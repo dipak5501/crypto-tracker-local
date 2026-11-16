@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-16T07:14:41.504Z",
-  "featureId": "web-learn-2026-11-16T07",
+  "at": "2026-11-16T10:21:04.171Z",
+  "featureId": "web-learn-2026-11-16T10",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Enhance Local Crypto Tracker with Trend Analysis",
-    "summary": "Integrate real-time market trend analysis and local-specific crypto price data to provide users with more accurate insights. Implement machine learning models for predictive analytics, allowing users to anticipate price movements. Optimize the user interface for better accessibility and ease of use.",
+    "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
+    "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area, enhancing user experience and utility.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 9186
+      "score": 9319
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 9178
+      "score": 9261
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7784
+      "score": 7804
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 5568
+      "score": 5612
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4251
+      "score": 4256
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 3557
+      "score": 3745
     },
     {
       "source": "github_search",
       "title": "shanselman/gputaskman",
       "url": "https://github.com/shanselman/gputaskman",
-      "score": 3358
-    },
-    {
-      "source": "github_search",
-      "title": "JenkinWoo/sheeridVerify",
-      "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "score": 3294
+      "score": 3373
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3277
+      "score": 3314
+    },
+    {
+      "source": "github_search",
+      "title": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "score": 3306
     },
     {
       "source": "github_search",
       "title": "govijr/terminal-mac",
       "url": "https://github.com/govijr/terminal-mac",
-      "score": 2783
+      "score": 2789
     },
     {
       "source": "github_search",
       "title": "sarpstar/cinecode",
       "url": "https://github.com/sarpstar/cinecode",
-      "score": 2575
+      "score": 2586
     },
     {
       "source": "github_search",
       "title": "jamesondh/chimera-vocal-synth",
       "url": "https://github.com/jamesondh/chimera-vocal-synth",
-      "score": 2498
+      "score": 2514
     }
   ]
 }
