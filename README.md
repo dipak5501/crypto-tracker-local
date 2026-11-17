@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance Local Crypto Tracker with AI Trends
 
-Integrate machine learning for real-time price prediction and trend analysis, implement a chatbot feature for user support, and add a news feed to provide relevant crypto news updates.
+Integrate real-time cryptocurrency price predictions and local market analysis using machine learning models to provide users with more accurate and timely information. Implement chatbot functionality for user support and interactive queries, enhancing the user experience.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
