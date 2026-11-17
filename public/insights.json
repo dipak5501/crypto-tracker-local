@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-16T22:47:33.907Z",
+  "updatedAt": "2026-11-17T01:53:37.854Z",
   "app": "Local Crypto Tracker",
-  "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-  "summary": "Integrate real-time market analysis and user feedback mechanisms to improve the accuracy and relevance of cryptocurrency price tracking in local areas, thereby enhancing user experience and engagement.",
+  "headline": "Update Local Crypto Tracker with Trend Analysis",
+  "summary": "Enhance the Local Crypto Tracker by integrating real-time trend analysis and local market data to provide users with more accurate and relevant cryptocurrency price information.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -11,39 +11,39 @@
   "signals": [
     {
       "source": "github_search",
-      "title": "janestreet/agent_skills",
-      "url": "https://github.com/janestreet/agent_skills",
-      "score": 9564
-    },
-    {
-      "source": "github_search",
-      "title": "Minireel/HGhub",
-      "url": "https://github.com/Minireel/HGhub",
-      "score": 9480
-    },
-    {
-      "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7874
-    },
-    {
-      "source": "github_search",
-      "title": "KKKKhazix/agent-autoloop",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 5685
+      "score": 7891
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4282
+      "score": 4286
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 4039
+      "score": 4105
+    },
+    {
+      "source": "github_search",
+      "title": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "score": 3371
+    },
+    {
+      "source": "github_search",
+      "title": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "score": 3357
+    },
+    {
+      "source": "github_search",
+      "title": "jamesondh/chimera-vocal-synth",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth",
+      "score": 2572
     }
   ]
 }
