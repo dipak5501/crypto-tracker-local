@@ -2,13 +2,13 @@
 
 ## Open now
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-crypto/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-crypto/
 
 | | |
 | --- | --- |
 | Tunnel | Cloudflare quick tunnel (`*.trycloudflare.com`) |
 | Local | http://127.0.0.1:8791/ |
-| Updated | 2026-11-13T22:46:50.738Z |
+| Updated | 2026-11-17T22:47:29.072Z |
 | GitHub | https://github.com/dipak5501/crypto-tracker-local |
 
 Also listed on https://github.com/dipak5501/daily-app-hub
