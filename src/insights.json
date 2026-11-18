@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-18T08:56:30.699Z",
+  "updatedAt": "2026-11-18T12:03:13.053Z",
   "app": "Local Crypto Tracker",
-  "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-  "summary": "Integrate real-time local cryptocurrency trends into the Local Crypto Tracker to provide more accurate and relevant data for users. Utilize AI chat functionalities to offer user support and guidance, and incorporate battery monitoring features to alert users about potential issues during trading sessions.",
+  "headline": "Enhance Local Crypto Tracker with Trend Signals",
+  "summary": "Integrate real-time local cryptocurrency trends into the Local Crypto Tracker app to provide users with more accurate and relevant information. Utilize AI chatbots for user support and feedback, and incorporate battery monitoring features to ensure the app runs efficiently on mobile devices.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -11,39 +11,39 @@
   "signals": [
     {
       "source": "github_search",
-      "title": "huami-dev/GestaltX",
-      "url": "https://github.com/huami-dev/GestaltX",
-      "score": 8217
+      "title": "huami1314/GestaltX",
+      "url": "https://github.com/huami1314/GestaltX",
+      "score": 8243
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 4657
+      "score": 4683
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4311
+      "score": 4314
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3545
-    },
-    {
-      "source": "github_search",
-      "title": "JenkinWoo/sheeridVerify",
-      "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "score": 3453
+      "score": 3561
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 3278
+      "score": 3472
+    },
+    {
+      "source": "github_search",
+      "title": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "score": 3463
     }
   ]
 }

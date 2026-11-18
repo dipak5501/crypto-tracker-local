@@ -3437,3 +3437,21 @@ Signals:
 - tangerineturtle1/NX2navi
 - jhaizhou-ops/S2Arm
 - JenkinWoo/sheeridVerify
+
+## 2026-11-18 — web-learn-2026-11-18T12
+
+Enhance Local Crypto Tracker with Trend Signals
+
+Integrate real-time local cryptocurrency trends into the Local Crypto Tracker app to provide users with more accurate and relevant information. Utilize AI chatbots for user support and feedback, and incorporate battery monitoring features to ensure the app runs efficiently on mobile devices.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- huami1314/GestaltX
+- deepseek-ai/chat-demo
+- tangerineturtle1/NX2navi
+- jhaizhou-ops/S2Arm
+- krisgfx9/Wireless-Device-Battery-Monitor

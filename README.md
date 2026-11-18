@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Local Crypto Tracker with Public Trend Signals
+**Latest:** Enhance Local Crypto Tracker with Trend Signals
 
-Integrate real-time local cryptocurrency trends into the Local Crypto Tracker to provide more accurate and relevant data for users. Utilize AI chat functionalities to offer user support and guidance, and incorporate battery monitoring features to alert users about potential issues during trading sessions.
+Integrate real-time local cryptocurrency trends into the Local Crypto Tracker app to provide users with more accurate and relevant information. Utilize AI chatbots for user support and feedback, and incorporate battery monitoring features to ensure the app runs efficiently on mobile devices.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
