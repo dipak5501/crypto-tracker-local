@@ -2,13 +2,13 @@
 
 ## Open now
 
-https://ruby-lean-ratios-archive.trycloudflare.com/a/local-crypto/
+https://concerning-february-sbjct-hey.trycloudflare.com/a/local-crypto/
 
 | | |
 | --- | --- |
 | Tunnel | Cloudflare quick tunnel (`*.trycloudflare.com`) |
 | Local | http://127.0.0.1:8791/ |
-| Updated | 2026-11-17T22:47:29.072Z |
+| Updated | 2026-11-18T08:48:13.781Z |
 | GitHub | https://github.com/dipak5501/crypto-tracker-local |
 
 Also listed on https://github.com/dipak5501/daily-app-hub
