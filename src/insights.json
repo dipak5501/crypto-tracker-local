@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-18T21:23:21.019Z",
+  "updatedAt": "2026-11-19T00:30:12.546Z",
   "app": "Local Crypto Tracker",
-  "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-  "summary": "By integrating real-time local market data and user interaction insights, the Local Crypto Tracker can offer more accurate and personalized cryptocurrency price tracking for users in their area.",
+  "headline": "Update Local Crypto Tracker with Real-Time Data and Interactive Charts",
+  "summary": "Enhance the user experience of local-crypto by integrating real-time cryptocurrency price updates and adding interactive charts to visualize trends more effectively. Implement a notification system for significant market movements.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8358
+      "score": 8370
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 4808
+      "score": 4817
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4318
+      "score": 4316
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 3815
+      "score": 3957
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3593
+      "score": 3594
     },
     {
       "source": "github_search",
       "title": "JenkinWoo/sheeridVerify",
       "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "score": 3491
+      "score": 3492
     }
   ]
 }
