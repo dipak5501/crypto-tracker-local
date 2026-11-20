@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-20T01:21:42.842Z",
+  "updatedAt": "2026-11-20T04:28:23.030Z",
   "app": "Local Crypto Tracker",
   "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-  "summary": "By integrating public trend signals from various projects, the Local Crypto Tracker can offer more accurate and timely cryptocurrency price updates for users in their area. This improvement will help users make better-informed decisions about their investments.",
+  "summary": "By integrating real-time cryptocurrency trend signals, the Local Crypto Tracker can offer more accurate and timely price updates for users in their local area. This will enhance user experience and provide valuable insights into market movements.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8540
+      "score": 8567
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 5217
+      "score": 5403
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5026
+      "score": 5050
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 4675
+      "score": 4726
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4333
+      "score": 4338
     },
     {
       "source": "github_search",
       "title": "ersinkoc/phonebox",
       "url": "https://github.com/ersinkoc/phonebox",
-      "score": 3863
+      "score": 3900
     }
   ]
 }
