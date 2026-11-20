@@ -3653,3 +3653,21 @@ Signals:
 - deepseek-ai/chat-demo
 - krisgfx9/Wireless-Device-Battery-Monitor
 - tangerineturtle1/NX2navi
+
+## 2026-11-20 — web-learn-2026-11-20T01
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+By integrating public trend signals from various projects, the Local Crypto Tracker can offer more accurate and timely cryptocurrency price updates for users in their area. This improvement will help users make better-informed decisions about their investments.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- huami1314/GestaltX
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- krisgfx9/Wireless-Device-Battery-Monitor
+- tangerineturtle1/NX2navi
