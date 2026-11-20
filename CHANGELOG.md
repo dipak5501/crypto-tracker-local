@@ -3743,3 +3743,21 @@ Signals:
 - deepseek-ai/chat-demo
 - krisgfx9/Wireless-Device-Battery-Monitor
 - tangerineturtle1/NX2navi
+
+## 2026-11-20 — web-learn-2026-11-20T16
+
+Enhance Local Crypto Tracker with Real-Time Data and User Feedback
+
+By integrating real-time cryptocurrency price updates from public APIs and incorporating user feedback through a simple rating system, the Local Crypto Tracker can provide more accurate and timely information to users. Additionally, adding a notification feature for significant market movements will keep users informed without constant refreshing.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- huami1314/GestaltX
+- erkamyaman/rust-anything
+- krisgfx9/Wireless-Device-Battery-Monitor
+- deepseek-ai/chat-demo
+- tangerineturtle1/NX2navi
