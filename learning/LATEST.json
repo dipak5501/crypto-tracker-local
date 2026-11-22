@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-22T18:39:14.289Z",
-  "featureId": "web-learn-2026-11-22T18",
+  "at": "2026-11-22T21:45:44.756Z",
+  "featureId": "web-learn-2026-11-22T21",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-    "summary": "By integrating real-time public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their area, enhancing user experience and utility.",
+    "headline": "Enhance Local Crypto Tracker",
+    "summary": "By integrating real-time local market data and user location services, the Local Crypto Tracker can offer more accurate cryptocurrency price tracking. Additionally, incorporating machine learning for trend prediction will help users make informed decisions.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,19 +16,19 @@
       "source": "github_search",
       "title": "ItsNotRexed/Leonida",
       "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 12822
+      "score": 14075
     },
     {
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8802
+      "score": 8804
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 7876
+      "score": 7929
     },
     {
       "source": "github_search",
@@ -40,49 +40,49 @@
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 3772
+      "score": 3804
     },
     {
       "source": "github_search",
       "title": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 2949
+      "score": 2963
     },
     {
       "source": "github_search",
       "title": "Immortal-Protocols/lastbook",
       "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 2938
+      "score": 2946
     },
     {
       "source": "github_search",
       "title": "apex-compute/ANR",
       "url": "https://github.com/apex-compute/ANR",
-      "score": 2891
+      "score": 2898
     },
     {
       "source": "github_search",
       "title": "Noniv/abyssal-garden",
       "url": "https://github.com/Noniv/abyssal-garden",
-      "score": 2773
+      "score": 2782
     },
     {
       "source": "github_search",
       "title": "bookwjitchieni1986/blender-ai-mcp-addon",
       "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "score": 2744
+      "score": 2745
     },
     {
       "source": "github_search",
       "title": "HolyArrs/HolyArrs",
       "url": "https://github.com/HolyArrs/HolyArrs",
-      "score": 2712
+      "score": 2737
     },
     {
       "source": "github_search",
       "title": "Kianuni/Erosion-CN",
       "url": "https://github.com/Kianuni/Erosion-CN",
-      "score": 2705
+      "score": 2708
     }
   ]
 }
