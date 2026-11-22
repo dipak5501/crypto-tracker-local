@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-21T20:53:41.845Z",
+  "updatedAt": "2026-11-22T00:00:31.192Z",
   "app": "Local Crypto Tracker",
-  "headline": "Enhance Local Crypto Tracker with Real-Time Data",
-  "summary": "Integrate real-time cryptocurrency price updates and local market trends to provide users with more accurate and timely information. Implement a notification system for significant price changes, allowing users to stay informed without constant polling.",
+  "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
+  "summary": "Integrate real-time local market data and predictive analytics to improve the accuracy of cryptocurrency price tracking. Utilize machine learning models for trend analysis and visualizations to provide users with actionable insights.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8726
+      "score": 8730
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 7323
+      "score": 7399
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 5771
+      "score": 5805
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5210
+      "score": 5213
+    },
+    {
+      "source": "github_search",
+      "title": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "score": 5037
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3774
-    },
-    {
-      "source": "github_search",
-      "title": "simplexai-labs/linger",
-      "url": "https://github.com/simplexai-labs/linger",
-      "score": 3335
+      "score": 3777
     }
   ]
 }
