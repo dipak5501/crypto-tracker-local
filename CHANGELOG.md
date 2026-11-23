@@ -4085,3 +4085,21 @@ Signals:
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
 - FrigadeHQ/yogurt
+
+## 2026-11-23 — web-learn-2026-11-23T03
+
+Enhance Local Crypto Tracker
+
+To improve the Local Crypto Tracker, focus on integrating real-time data updates, adding local market analysis tools, and implementing user-friendly interface enhancements.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger
+- FrigadeHQ/yogurt
