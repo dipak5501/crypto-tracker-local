@@ -4103,3 +4103,21 @@ Signals:
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
 - FrigadeHQ/yogurt
+
+## 2026-11-23 — web-learn-2026-11-23T07
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for local markets. This will help users make better investment decisions based on real-time data.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger
+- FrigadeHQ/yogurt
