@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-23T16:25:22.108Z",
+  "updatedAt": "2026-11-23T19:32:03.944Z",
   "app": "Local Crypto Tracker",
-  "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-  "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area. This will enhance user experience and help them make better investment decisions.",
+  "headline": "Local Crypto Tracker Improvements",
+  "summary": "By integrating real-time local market data and advanced trend analysis, Local Crypto Tracker can provide users with more accurate and relevant cryptocurrency price information. Enhancements should focus on user interface optimizations for better usability and the inclusion of local-specific crypto assets.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "ItsNotRexed/Leonida",
       "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 23085
+      "score": 28528
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8571
+      "score": 8627
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5338
+      "score": 5342
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 4127
+      "score": 4150
+    },
+    {
+      "source": "github_search",
+      "title": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 3080
     },
     {
       "source": "github_search",
       "title": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 3046
-    },
-    {
-      "source": "github_search",
-      "title": "Immortal-Protocols/lastbook",
-      "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 2992
+      "score": 3063
     }
   ]
 }
