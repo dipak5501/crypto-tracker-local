@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-23T19:32:03.944Z",
+  "updatedAt": "2026-11-23T22:38:33.010Z",
   "app": "Local Crypto Tracker",
-  "headline": "Local Crypto Tracker Improvements",
-  "summary": "By integrating real-time local market data and advanced trend analysis, Local Crypto Tracker can provide users with more accurate and relevant cryptocurrency price information. Enhancements should focus on user interface optimizations for better usability and the inclusion of local-specific crypto assets.",
+  "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
+  "summary": "By integrating real-time public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area. This improvement will significantly enhance user experience and trust in the app.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -11,39 +11,39 @@
   "signals": [
     {
       "source": "github_search",
-      "title": "ItsNotRexed/Leonida",
-      "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 28528
+      "title": "ProjectLeonida/Leonida",
+      "url": "https://github.com/ProjectLeonida/Leonida",
+      "score": 33018
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8627
+      "score": 8680
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5342
+      "score": 5343
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 4150
+      "score": 4178
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 3080
+      "score": 3134
     },
     {
       "source": "github_search",
-      "title": "FrigadeHQ/yogurt",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 3063
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 3076
     }
   ]
 }
