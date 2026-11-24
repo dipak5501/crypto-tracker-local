@@ -33,7 +33,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Local Crypto Tracker Enhancements
 
-To improve the Local Crypto Tracker, focus on integrating real-time data updates, adding local market analysis tools, and enhancing user interface for better navigation.
+To improve the Local Crypto Tracker, focus on integrating real-time data updates, adding a user-friendly interface for easy navigation, and incorporating local market analysis to provide more relevant information.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
