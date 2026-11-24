@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-24T01:44:08.791Z",
-  "featureId": "web-learn-2026-11-24T01",
+  "at": "2026-11-24T04:50:26.848Z",
+  "featureId": "web-learn-2026-11-24T04",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Local Crypto Tracker Upgrade",
-    "summary": "Enhance the Local Crypto Tracker by integrating real-time data feeds, implementing machine learning for trend analysis, and adding a user-friendly interface with customizable alerts.",
+    "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
+    "summary": "By integrating real-time public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area, enhancing user experience and reliability.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,31 +16,37 @@
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8750
+      "score": 8817
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5348
+      "score": 5356
     },
     {
       "source": "github_search",
-      "title": "Hut-hzf/ung220z-tool",
-      "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 3390
-    },
-    {
-      "source": "github_search",
-      "title": "EL4CTEO/fast-anything",
-      "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3147
+      "title": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "score": 4514
     },
     {
       "source": "github_search",
       "title": "ivall/xcl",
       "url": "https://github.com/ivall/xcl",
-      "score": 3049
+      "score": 4057
+    },
+    {
+      "source": "github_search",
+      "title": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 3619
+    },
+    {
+      "source": "github_search",
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 3242
     },
     {
       "source": "github_search",
@@ -52,37 +58,31 @@
       "source": "github_search",
       "title": "apex-compute/ANR",
       "url": "https://github.com/apex-compute/ANR",
-      "score": 2970
+      "score": 2971
     },
     {
       "source": "github_search",
       "title": "Noniv/abyssal-garden",
       "url": "https://github.com/Noniv/abyssal-garden",
-      "score": 2876
+      "score": 2885
     },
     {
       "source": "github_search",
       "title": "Eynnzerr/TelemetryCleaner",
       "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-      "score": 2811
-    },
-    {
-      "source": "github_search",
-      "title": "Marvisak/VIctory",
-      "url": "https://github.com/Marvisak/VIctory",
-      "score": 2511
+      "score": 2833
     },
     {
       "source": "github_search",
       "title": "ZiChuanLan/freebie-radar",
       "url": "https://github.com/ZiChuanLan/freebie-radar",
-      "score": 2460
+      "score": 2483
     },
     {
       "source": "github_search",
-      "title": "iamajmeena/neonclipping",
-      "url": "https://github.com/iamajmeena/neonclipping",
-      "score": 2310
+      "title": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 2384
     }
   ]
 }
