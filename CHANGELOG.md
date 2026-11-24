@@ -4247,3 +4247,21 @@ Signals:
 - Marvisak/VIctory
 - ivall/xcl
 - Hut-hzf/ung220z-tool
+
+## 2026-11-24 — web-learn-2026-11-24T07
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+By integrating public trend signals, the Local Crypto Tracker can offer more accurate and timely cryptocurrency price updates for local users. This improvement will help users make better investment decisions based on real-time market trends.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- erkamyaman/rust-anything
+- Marvisak/VIctory
+- deepseek-ai/chat-demo
+- ivall/xcl
+- Hut-hzf/ung220z-tool
