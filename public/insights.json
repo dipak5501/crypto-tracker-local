@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-23T22:38:33.010Z",
+  "updatedAt": "2026-11-24T01:44:08.791Z",
   "app": "Local Crypto Tracker",
-  "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
-  "summary": "By integrating real-time public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for users in their local area. This improvement will significantly enhance user experience and trust in the app.",
+  "headline": "Local Crypto Tracker Upgrade",
+  "summary": "Enhance the Local Crypto Tracker by integrating real-time data feeds, implementing machine learning for trend analysis, and adding a user-friendly interface with customizable alerts.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -11,39 +11,39 @@
   "signals": [
     {
       "source": "github_search",
-      "title": "ProjectLeonida/Leonida",
-      "url": "https://github.com/ProjectLeonida/Leonida",
-      "score": 33018
-    },
-    {
-      "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8680
+      "score": 8750
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5343
-    },
-    {
-      "source": "github_search",
-      "title": "simplexai-labs/linger",
-      "url": "https://github.com/simplexai-labs/linger",
-      "score": 4178
+      "score": 5348
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 3134
+      "score": 3390
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3076
+      "score": 3147
+    },
+    {
+      "source": "github_search",
+      "title": "ivall/xcl",
+      "url": "https://github.com/ivall/xcl",
+      "score": 3049
+    },
+    {
+      "source": "github_search",
+      "title": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "score": 3008
     }
   ]
 }

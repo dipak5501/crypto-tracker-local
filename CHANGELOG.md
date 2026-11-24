@@ -4211,3 +4211,21 @@ Signals:
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
 - Hut-hzf/ung220z-tool
+
+## 2026-11-24 — web-learn-2026-11-24T01
+
+Local Crypto Tracker Upgrade
+
+Enhance the Local Crypto Tracker by integrating real-time data feeds, implementing machine learning for trend analysis, and adding a user-friendly interface with customizable alerts.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- Hut-hzf/ung220z-tool
+- EL4CTEO/fast-anything
+- ivall/xcl
