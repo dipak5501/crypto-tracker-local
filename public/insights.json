@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-24T17:15:42.944Z",
+  "updatedAt": "2026-11-24T20:21:46.586Z",
   "app": "Local Crypto Tracker",
   "headline": "Local Crypto Tracker Enhancements",
-  "summary": "To improve the Local Crypto Tracker, focus on integrating real-time data updates, adding a user-friendly interface for easy navigation, and incorporating local market analysis to provide more relevant information.",
+  "summary": "To improve the Local Crypto Tracker, focus on integrating real-time price updates, adding local market analysis tools, and incorporating user-friendly interface designs to enhance user experience.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 10015
+      "score": 10823
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 9121
+      "score": 9159
     },
     {
       "source": "github_search",
-      "title": "ivall/xcl",
-      "url": "https://github.com/ivall/xcl",
-      "score": 7235
+      "title": "xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "score": 7640
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5394
+      "score": 5395
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 4347
+      "score": 4390
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3530
+      "score": 3559
     }
   ]
 }
