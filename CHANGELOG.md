@@ -4445,3 +4445,21 @@ Signals:
 - xcl-dev/xcl
 - deepseek-ai/chat-demo
 - Hut-hzf/ung220z-tool
+
+## 2026-11-25 — web-learn-2026-11-25T18
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+Integrate real-time local cryptocurrency price trends to provide users with more accurate and relevant information, improving the app's utility. Implement a user-friendly interface for easy navigation and data visualization, and incorporate notifications for significant market movements.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- deepseek-ai/chat-demo
+- Hut-hzf/ung220z-tool
