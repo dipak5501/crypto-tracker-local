@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-24T23:28:13.099Z",
-  "featureId": "web-learn-2026-11-24T23",
+  "at": "2026-11-25T02:34:34.515Z",
+  "featureId": "web-learn-2026-11-25T02",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Local Crypto Tracker Enhancements",
-    "summary": "To improve the Local Crypto Tracker app, focus on integrating real-time data updates, adding local market analysis tools, and enhancing user interface for better usability.",
+    "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
+    "summary": "By integrating public trend signals, the Local Crypto Tracker can provide more accurate and timely cryptocurrency price updates for local users. This improvement will help users make informed decisions about their investments.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 11207
+      "score": 11467
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 9193
+      "score": 9249
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 7788
+      "score": 7888
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5395
+      "score": 5403
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 4421
+      "score": 4491
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3585
+      "score": 3634
     },
     {
       "source": "github_search",
       "title": "AFK-surf/xnulinux",
       "url": "https://github.com/AFK-surf/xnulinux",
-      "score": 3328
+      "score": 3428
     },
     {
       "source": "github_search",
       "title": "Immortal-Protocols/lastbook",
       "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 3052
-    },
-    {
-      "source": "github_search",
-      "title": "apex-compute/ANR",
-      "url": "https://github.com/apex-compute/ANR",
-      "score": 3007
-    },
-    {
-      "source": "github_search",
-      "title": "Noniv/abyssal-garden",
-      "url": "https://github.com/Noniv/abyssal-garden",
-      "score": 2933
-    },
-    {
-      "source": "github_search",
-      "title": "Eynnzerr/TelemetryCleaner",
-      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-      "score": 2914
+      "score": 3058
     },
     {
       "source": "github_search",
       "title": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
-      "score": 2779
+      "score": 2960
+    },
+    {
+      "source": "github_search",
+      "title": "Noniv/abyssal-garden",
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "score": 2940
+    },
+    {
+      "source": "github_search",
+      "title": "ZiChuanLan/freebie-radar",
+      "url": "https://github.com/ZiChuanLan/freebie-radar",
+      "score": 2594
+    },
+    {
+      "source": "github_search",
+      "title": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "score": 2580
     }
   ]
 }
