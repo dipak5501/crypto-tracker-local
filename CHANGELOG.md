@@ -4499,3 +4499,21 @@ Signals:
 - xcl-dev/xcl
 - Hut-hzf/ung220z-tool
 - 4lwayz/portwatch-vi
+
+## 2026-11-26 — web-learn-2026-11-26T03
+
+Local Crypto Tracker Enhancements
+
+To improve the Local Crypto Tracker app, focus on integrating real-time price updates, adding a user-friendly interface for easy navigation, and implementing local-specific cryptocurrency tracking features.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- Hut-hzf/ung220z-tool
+- 4lwayz/portwatch-vi
