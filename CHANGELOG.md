@@ -4571,3 +4571,21 @@ Signals:
 - xcl-dev/xcl
 - Hut-hzf/ung220z-tool
 - 4lwayz/portwatch-vi
+
+## 2026-11-26 — web-learn-2026-11-26T15
+
+Enhance Local Crypto Tracker with Public Trend Signals
+
+By integrating real-time market data and user interaction insights from public repositories, the Local Crypto Tracker can offer more accurate price tracking and personalized trend analysis for users in their local area.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- Hut-hzf/ung220z-tool
+- 4lwayz/portwatch-vi
