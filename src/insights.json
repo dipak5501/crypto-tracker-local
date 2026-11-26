@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-26T03:26:41.019Z",
+  "updatedAt": "2026-11-26T06:32:59.680Z",
   "app": "Local Crypto Tracker",
   "headline": "Local Crypto Tracker Enhancements",
-  "summary": "To improve the Local Crypto Tracker app, focus on integrating real-time price updates, adding a user-friendly interface for easy navigation, and implementing local-specific cryptocurrency tracking features.",
+  "summary": "To improve the Local Crypto Tracker, focus on integrating real-time data updates, adding local market analysis tools, and enhancing user interface for better accessibility.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 12674
+      "score": 12762
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 9660
+      "score": 9714
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 8338
+      "score": 8377
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 4928
+      "score": 5015
     },
     {
       "source": "github_search",
       "title": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
-      "score": 4311
+      "score": 4489
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 4015
+      "score": 4050
     }
   ]
 }
