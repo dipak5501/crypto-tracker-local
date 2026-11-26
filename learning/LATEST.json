@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-26T09:39:33.010Z",
-  "featureId": "web-learn-2026-11-26T09",
+  "at": "2026-11-26T12:45:55.431Z",
+  "featureId": "web-learn-2026-11-26T12",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Local Crypto Tracker Enhancements",
-    "summary": "To improve the Local Crypto Tracker app, focus on integrating real-time data updates, adding a user-friendly interface for easy navigation, and incorporating local market analysis features to provide more relevant information.",
+    "headline": "Enhance Local Crypto Tracker with Public Trend Signals",
+    "summary": "By integrating real-time public trend signals, the Local Crypto Tracker can provide more accurate and relevant cryptocurrency price updates for users in their local area, enhancing user experience and utility.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 12853
+      "score": 12947
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 9781
+      "score": 9844
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 8405
+      "score": 8440
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 5122
+      "score": 5241
     },
     {
       "source": "github_search",
       "title": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
-      "score": 4719
+      "score": 4939
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 4088
+      "score": 4119
     },
     {
       "source": "github_search",
       "title": "AFK-surf/xnulinux",
       "url": "https://github.com/AFK-surf/xnulinux",
-      "score": 4076
+      "score": 4110
     },
     {
       "source": "github_search",
       "title": "fxceless/victory-fork",
       "url": "https://github.com/fxceless/victory-fork",
-      "score": 3171
+      "score": 3193
     },
     {
       "source": "github_search",
       "title": "sybil-solutions/inference-optimisation-skill",
       "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "score": 2744
+      "score": 2771
     },
     {
       "source": "github_search",
       "title": "iamajmeena/neonclipping",
       "url": "https://github.com/iamajmeena/neonclipping",
-      "score": 2660
-    },
-    {
-      "source": "github_search",
-      "title": "ubiquitarianism/leonida",
-      "url": "https://github.com/ubiquitarianism/leonida",
-      "score": 2409
+      "score": 2673
     },
     {
       "source": "github_search",
       "title": "pierridotite/mobile-agent-testers",
       "url": "https://github.com/pierridotite/mobile-agent-testers",
-      "score": 2403
+      "score": 2434
+    },
+    {
+      "source": "github_search",
+      "title": "ubiquitarianism/leonida",
+      "url": "https://github.com/ubiquitarianism/leonida",
+      "score": 2423
     }
   ]
 }
