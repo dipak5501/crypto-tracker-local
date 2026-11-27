@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance Local Crypto Tracker with Rust
+**Latest:** Enhance Local Crypto Tracker with Public Trend Signals
 
-Integrate Rust for improved performance and security, leverage public trend signals for real-time data updates, and implement a user-friendly interface to enhance the local crypto tracking experience.
+By integrating real-time local market trends and user feedback, the Local Crypto Tracker can provide more accurate and relevant cryptocurrency price information to users in their area. This will enhance user engagement and satisfaction.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
