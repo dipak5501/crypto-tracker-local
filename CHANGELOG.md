@@ -4679,3 +4679,21 @@ Signals:
 - xcl-dev/xcl
 - 4lwayz/portwatch-vi
 - Hut-hzf/ung220z-tool
+
+## 2026-11-27 — web-learn-2026-11-27T10
+
+Enhance Local Crypto Tracker with Rust
+
+Integrate Rust for improved performance and security, leverage public trend signals for real-time data updates, and implement a user-friendly interface to enhance the local crypto tracking experience.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- 4lwayz/portwatch-vi
+- Hut-hzf/ung220z-tool
