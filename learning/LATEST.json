@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-28T02:04:04.878Z",
-  "featureId": "web-learn-2026-11-28T02",
+  "at": "2026-11-28T05:10:01.983Z",
+  "featureId": "web-learn-2026-11-28T05",
   "slug": "local-crypto",
   "idea": {
-    "headline": "Local Crypto Tracker Update",
-    "summary": "To enhance the Local Crypto Tracker, we can integrate real-time cryptocurrency price updates from public APIs, add a feature to display local market trends, and implement a user-friendly interface for better navigation.",
+    "headline": "Local Crypto Tracker Enhancements",
+    "summary": "To improve the Local Crypto Tracker, focus on integrating real-time data feeds, adding a user-friendly interface for easy navigation, and incorporating local market-specific insights to provide more relevant information.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 13829
+      "score": 13861
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 10806
+      "score": 10854
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 8743
+      "score": 8752
     },
     {
       "source": "github_search",
       "title": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
-      "score": 6777
+      "score": 6849
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 5883
+      "score": 5919
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 4481
+      "score": 4516
     },
     {
       "source": "github_search",
       "title": "AFK-surf/xnulinux",
       "url": "https://github.com/AFK-surf/xnulinux",
-      "score": 4371
+      "score": 4381
     },
     {
       "source": "github_search",
       "title": "trustno1-coder/VIctory-NVIDIA",
       "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-      "score": 3488
+      "score": 3981
     },
     {
       "source": "github_search",
       "title": "fxceless/victory-fork",
       "url": "https://github.com/fxceless/victory-fork",
-      "score": 3362
+      "score": 3363
     },
     {
       "source": "github_search",
       "title": "RMvdesi/obsidian-prism",
       "url": "https://github.com/RMvdesi/obsidian-prism",
-      "score": 2940
-    },
-    {
-      "source": "github_search",
-      "title": "iamajmeena/neonclipping",
-      "url": "https://github.com/iamajmeena/neonclipping",
-      "score": 2929
+      "score": 2980
     },
     {
       "source": "github_search",
       "title": "ProjectLeonida/mandy",
       "url": "https://github.com/ProjectLeonida/mandy",
-      "score": 2907
+      "score": 2978
+    },
+    {
+      "source": "github_search",
+      "title": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "score": 2939
     }
   ]
 }

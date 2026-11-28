@@ -31,9 +31,9 @@ See RESEARCH.md (representative public scan).
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Local Crypto Tracker Update
+**Latest:** Local Crypto Tracker Enhancements
 
-To enhance the Local Crypto Tracker, we can integrate real-time cryptocurrency price updates from public APIs, add a feature to display local market trends, and implement a user-friendly interface for better navigation.
+To improve the Local Crypto Tracker, focus on integrating real-time data feeds, adding a user-friendly interface for easy navigation, and incorporating local market-specific insights to provide more relevant information.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
